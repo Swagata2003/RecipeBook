@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RecipeBook/static/css/main.18c373d7.css",
+    "main.js": "/RecipeBook/static/js/main.a22c8b01.js",
+    "static/media/header_image.jpg": "/RecipeBook/static/media/header_image.4cef7d2258efdb960f8c.jpg",
+    "static/media/loader.svg": "/RecipeBook/static/media/loader.e8fc3e54ab6ff41adff8c7f29e26f56c.svg",
+    "index.html": "/RecipeBook/index.html",
+    "main.18c373d7.css.map": "/RecipeBook/static/css/main.18c373d7.css.map",
+    "main.a22c8b01.js.map": "/RecipeBook/static/js/main.a22c8b01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18c373d7.css",
+    "static/js/main.a22c8b01.js"
+  ]
+}
