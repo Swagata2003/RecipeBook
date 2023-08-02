@@ -23,7 +23,7 @@ const MealList = ({ meals }) => {
                   <div className='meal-itm-body'>
                     <div className='meal-itm-body-info flex flex-column'>
                       <div className='area fs-14 ls-1 fw-5'>{area}</div>
-                      <div className='meal fw-15 fw-7 op-09'>{meal}</div>
+                      <div className='meal fw-15 fw-7 op-09'>{meal}"</div>
                     </div>
                   </div>
                 </Link>

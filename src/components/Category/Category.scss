@@ -34,11 +34,12 @@
             img{
                 padding: 12px;
                 transition: $transition;
+                transform: scale(0.8);
             }
 
             &:hover{
                 img{
-                    transform: scale(0.8);
+                    transform: scale(0.9);
                 }
             }
         }

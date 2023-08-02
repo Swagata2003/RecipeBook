@@ -53,6 +53,12 @@ const MealSingle = ({meal}) => {
                     {meal.source ? (meal?.source).substring(0, 40) + "..." : "Not found" }
                   </a>
                 </div>
+                <div className='source flex align-center'>
+                  <span className='fw-7 my-2'>Youtube Link: &nbsp;</span>
+                  <a href = {meal.youtube}>
+                    {meal.youtube ? (meal?.youtube).substring(0, 40) + "..." : "Not found" }
+                  </a>
+                </div>
               </div>
 
               <div className='tags flex align-start flex-wrap'>
